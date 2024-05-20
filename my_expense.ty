@@ -57,4 +57,3 @@ expense_db.add_expense(expense1)
 expense_db.add_expense(expense2)
 expense_db.add_expense(expense3)
 print(expense_db.to_dict())
-
